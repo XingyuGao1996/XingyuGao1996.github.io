@@ -22,7 +22,7 @@ Developing coherent control of individual quantum systems and harnessing this co
 
 My research focuses on spin qubits in novel material platforms, specifically, in hexagonal boron nitride (hBN). hBN is a van der Waals material and its layered structure offers capabilities to integrate with heterogeneous nanodevices. We discover and create optically active spin defects in hBN, and study these defects using the optically detected magnetic resonance (ODMR) technique. We investigate $$V_B^-$$ spin defect ensembles and single carbon-related defects in hBN. In addition, we leverage these defects to detect, polarize and control the surrounding nuclear spins. The nuclear spins generally exhibit significantly longer coherence times compared with the electronic spins.  The capability of controlling inidividual nuclear spins enbales long-live nucelar spin quantum registers to overcome the short coherence time of hBN spin defects.
 
-![ ](./Figures_research/illustration_hBNdefects.jpg "hBN_illustration")
+![ ](illustration_hBNdefects.jpg "hBN_illustration")
 
 __Related publications__:
 * __Gao, X.__, Vaidya, S., Li, K., Ju, P., Jiang, B., Xu, Z., Allcca, A. E., ..., Bhave, S. A., Chen, Y. P., Ping, Y., & Li, T. Nuclear spin polarization and control in hexagonal boron nitride. Nature Materials, 21, 1024-1028 (2022).
