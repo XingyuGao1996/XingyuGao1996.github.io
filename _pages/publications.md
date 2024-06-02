@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: " "
 permalink: /publications/
 author_profile: true
 ---
@@ -14,9 +14,13 @@ author_profile: true
 
 {% include base_path %}
 
+## Preprints
+
 * __Gao, Xingyu__*, Sumukh Vaidya*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023).
+
+## Publications
+* Jin, Yuanbin, Kunhong Shen, Peng Ju, __Xingyu Gao__, Chong Zu, Alejandro J. Grine, and Tongcang Li. "Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum." Nature Communications (accepted) (2024).
 * Vaidya, Sumukh, __Xingyu Gao__, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." Advances in Physics: X 8, no. 1 (2023): 2206049.
-* Jin, Yuanbin, Kunhong Shen, Peng Ju, __Xingyu Gao__, Chong Zu, Alejandro J. Grine, and Tongcang Li. "Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum." arXiv preprint arXiv:2309.05821 (2023).
 * Ju, Peng, Yuanbin Jin, Kunhong Shen, Yao Duan, Zhujing Xu, __Xingyu Gao__, Xingjie Ni, and Tongcang Li. "Near-field GHz rotation and sensing with an optically levitated nanodumbbell." Nano letters 23, no. 22 (2023): 10157-10163.
 * __Gao, Xingyu__, Sumukh Vaidya, Peng Ju, Saakshi Dikshit, Kunhong Shen, Yong P. Chen, and Tongcang Li. "Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride." ACS Photonics 10, no. 8 (2023): 2894-2900.
 * Li, Junxu, __Xingyu Gao__, Manas Sajjan, Ji-Hu Su, Zhao-Kai Li, and Sabre Kais. "M {\o} ller-Plesset Perturbation Theory Calculations on Quantum Devices." arXiv preprint arXiv:2308.01559 (2023).
