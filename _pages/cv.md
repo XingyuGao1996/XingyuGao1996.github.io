@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find me CV [here](XingyuGao_CV_2023.pdf)
+You can find me CV [here](XingyuGao_CV_2024.pdf)
