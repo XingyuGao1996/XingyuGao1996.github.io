@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate in Physics  under the supervision of Prof. Tongcang Li at Purdue University. I am interested in solid-state quantum devices for the applications in quantum sensing, computation and communication. My current research focuses on spin qubits in solid-state materials, specifically, in hexagonal boron nitride. 
+I am a Ph.D. candidate in Physics  under the supervision of Prof. [Tongcang Li](https://sites.google.com/site/litongcang/) at Purdue University. I am interested in solid-state quantum devices for the applications in quantum sensing, computation and communication. My current research focuses on spin qubits in solid-state materials, specifically, in hexagonal boron nitride. 
 
 You can reach me by email at gao477[at]purdue[dot]edu
 
@@ -18,9 +18,9 @@ You can reach me by email at gao477[at]purdue[dot]edu
 # Research Directions
 
 ## Novel spin qubits in hexagonal boron nitride
-Developing coherent control of individual quantum systems and harnessing this control to realize entanglement-based quantum devices is the central goal of the current quantum technologies.  Spin defects in solid state materials have recently emerged as one of the most promsing systems. A spin defect provides a spin–photon quantum interface that enables optical access to its electronic spins. The electron spins provide controllable qubits with long relaxation and coherence times.  Several spin defects have been well investigated but only a few defects in diamond and silicon carbide exhibit room temperature coherence properties.  
+Developing coherent control of individual quantum systems and harnessing this control to realize entanglement-based quantum devices is the central story of current quantum technologies.  Spin defects in solid state materials have recently emerged as one of the most promsing systems. A spin defect provides a spin–photon quantum interface that enables optical access to its electronic spins. The electron spins provide controllable qubits with long relaxation and coherence times.  While several spin defects have been well investigated, only a few defects in diamond and silicon carbide exhibit room temperature coherence properties.  
 
-My research focuses on spin qubits in novel material platforms, specifically, in hexagonal boron nitride (hBN). hBN is a van der Waals material and its layered structure offers capabilities to integrate with heterogeneous nanodevices. We discover and create optically active spin defects in hBN, and study these defects using the optically detected magnetic resonance (ODMR) technique. We investigate $$V_B^-$$ spin defect ensembles and single carbon-related defects in hBN. In addition, we leverage these defects to detect, polarize and control the surrounding nuclear spins. The nuclear spins generally exhibit significantly longer coherence times compared with the electronic spins.  The capability of controlling inidividual nuclear spins enbales long-live nucelar spin quantum registers to overcome the short coherence time of hBN spin defects.
+My research focuses on spin qubits in novel material platforms, specifically, in hexagonal boron nitride (hBN). hBN is a van der Waals material and its layered structure offers capabilities to integrate with heterogeneous nanodevices. We discover and create optically active spin defects in hBN, and study these defects using the optically detected magnetic resonance (ODMR) technique. Our investigations include $$V_B^-$$ spin defect ensembles and single carbon-related defects in hBN. Additionally, we leverage these defects to detect, polarize and control the surrounding nuclear spins. The nuclear spins generally exhibit significantly longer coherence times compared to electronic spins.  The capability of controlling inidividual nuclear spins enbales long-live nucelar spin quantum registers, which can overcome the short coherence time of hBN spin defects.
 
 ![ ](../Figures/research/illustration_hBNdefects.jpg "hBN_illustration")
 
@@ -54,7 +54,7 @@ __Related publications__:
 * Ahn, J., Xu, Z., Bang, J., Ju, P., __Gao, X.__, & Li, T. (2020). Ultrasensitive torque detection with an optically levitated nanorotor. Nature Nanotechnology, 15, 89-93.
 
 
-## Near-field energy transfer via vacuum fluctuation adn thermal radiation.
+## Near-field energy transfer via vacuum fluctuation and thermal radiation.
 We are also intereted in regulating energy transfer between macroscopic objects through vacuum. Vacuum fluctuations, which exist everywhere, lead to the Casimir interaction between macroscopic bodies. We proposed and realized the Casimir diode system to regulate energy transfer by quantum fluctuations. We achieved the precision measurement of Casimir force using a home-built dual-cantilever system. We realized the non-reciprocal energy transfer via Casimir force, revealing new perspectives and opportunities for utilizing quantum fluctuations in real applications. Additionally, we investigated the near field thermal radiation of nonreciprocal objects. When the entire system is at thermal equilibrium, intuitively, there should not be any heat flow. However, in the vicinity of certain nonreciprocal materials, nonzero local heat current can exist at thermal equilibrium. Such a thermal ratiation forms a closed loop, conserving energy globally and maintaining thermal equilibrium. It will not violate thermodynamic laws. 
 
 ![ ](../Figures/research/Energytransfer.jpg "energyTransfer")
