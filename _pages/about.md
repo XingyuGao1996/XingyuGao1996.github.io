@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DE6WMXD2L1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DE6WMXD2L1');
+</script>
 
 
 I am a Ph.D. candidate in Physics  under the supervision of Prof. [Tongcang Li](https://sites.google.com/site/litongcang/) at Purdue University. I am interested in solid-state quantum devices for the applications in quantum sensing, computation and communication. My current research focuses on spin qubits in solid-state materials, specifically, in hexagonal boron nitride. 
