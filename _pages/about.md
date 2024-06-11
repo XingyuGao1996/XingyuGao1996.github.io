@@ -40,6 +40,8 @@ Awards and Honors
 
 * Karl Lark-Horovitz Award, Purdue University, 2023
 
+* Ross Fellowship, Purdue University, 2018
+
 * Best Bachelor’s Thesis Award (1%), University of Science and Technology of China, 2018
 
 * Seagate Fellowship, University of Science and Technology of China, 2016
