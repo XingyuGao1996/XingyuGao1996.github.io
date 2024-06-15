@@ -40,8 +40,8 @@ Levitated nanoparticles and microparticles in high vacuum offer a remarkable deg
 ![ ](../Figures/research/Levitation.jpg "energyTransfer")
 
 __Related publications__:
-* Jin, Y., Shen, K., Ju, P., __Gao, X.__, Zu, C., Grine, A. J., and Li, T. Quantum control and fast rotation of levitated diamonds in high vacuum. arXiv:2309.05821 (2023).
-* Ju, P., Jin, Y., Shen, K., Duan, Y., Xu, Z., __Gao, X.__, and Li, T. Near-field GHz rotation and sensing with an optically levitated nanodumbbell. arXiv:2301.10868 (2023).
+* Jin, Y., Shen, K., Ju, P., __Gao, X.__, Zu, C., Grine, A. J., and Li, T. Quantum control and fast rotation of levitated diamonds in high vacuum. ***Nature Communications*** volume 15, Article number: 5063 (2024) 
+* Ju, P., Jin, Y., Shen, K., Duan, Y., Xu, Z., __Gao, X.__, and Li, T. Near-field GHz rotation and sensing with an optically levitated nanodumbbell. ***Nano Lett*** 2023, 23, 22, 10157–10163
 * Bang, J., Seberson, T., Ju, P., Ahn, J., Xu, Z., __Gao, X.__, Robicheaux, F., & Li, T. Five-dimensional cooling and nonlinear dynamics of an optically levitated nanodumbbell. Physical Review Research, 2, 043054 (2020).
 * Ahn, J., Xu, Z., Bang, J., Ju, P., __Gao, X.__, & Li, T. (2020). Ultrasensitive torque detection with an optically levitated nanorotor. Nature Nanotechnology, 15, 89-93.
 
