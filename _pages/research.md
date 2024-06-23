@@ -40,10 +40,10 @@ Levitated nanoparticles and microparticles in high vacuum offer a remarkable deg
 ![ ](../Figures/research/Levitation.jpg "energyTransfer")
 
 __Related publications__:
-* Jin, Y., Shen, K., Ju, P., __Gao, X.__, Zu, C., Grine, A. J., and Li, T. Quantum control and fast rotation of levitated diamonds in high vacuum. ***Nature Communications*** volume 15, Article number: 5063 (2024) 
-* Ju, P., Jin, Y., Shen, K., Duan, Y., Xu, Z., __Gao, X.__, and Li, T. Near-field GHz rotation and sensing with an optically levitated nanodumbbell. ***Nano Lett*** 2023, 23, 22, 10157–10163
+* Jin, Y., Shen, K., Ju, P., __Gao, X.__, Zu, C., Grine, A. J., and Li, T. Quantum control and fast rotation of levitated diamonds in high vacuum. ***Nature Communications*** 15, 5063 (2024).
+* Ju, P., Jin, Y., Shen, K., Duan, Y., Xu, Z., __Gao, X.__, and Li, T. Near-field GHz rotation and sensing with an optically levitated nanodumbbell. ***Nano Lett*** 23, 22, 10157–10163 (2023).
 * Bang, J., Seberson, T., Ju, P., Ahn, J., Xu, Z., __Gao, X.__, Robicheaux, F., & Li, T. Five-dimensional cooling and nonlinear dynamics of an optically levitated nanodumbbell. Physical Review Research, 2, 043054 (2020).
-* Ahn, J., Xu, Z., Bang, J., Ju, P., __Gao, X.__, & Li, T. (2020). Ultrasensitive torque detection with an optically levitated nanorotor. Nature Nanotechnology, 15, 89-93.
+* Ahn, J., Xu, Z., Bang, J., Ju, P., __Gao, X.__, & Li, T.  Ultrasensitive torque detection with an optically levitated nanorotor. Nature Nanotechnology, 15, 89-93 (2020).
 
 
 ## Near-field energy transfer via vacuum fluctuation and thermal radiation.
@@ -54,5 +54,5 @@ We are also interested in regulating energy transfer between macroscopic objects
 __Related publications__:
 * Xu, Z., Ju, P., __Gao, X.__, Shen, K., Jacob, Z., & Li, T. Observation and control of Casimir effects in a sphereplate-sphere system. Nature Communications, 13, 6148 (2022).
 * Xu, Z., __Gao, X.__, Bang, J., Jacob, Z., & Li, T. Non-reciprocal energy transfer through the Casimir effect. Nature nanotechnology, 17, 148-152 (2022).
-* Wang, Yifan, Chinmay Khandekar, __Xingyu Gao__, Tongcang Li, Dan Jiao, and Zubin Jacob. "Broadband circularly polarized thermal radiation from magnetic Weyl semimetals." Optical Materials Express 11, no. 11 (2021): 3880-3895.
+* Wang, Yifan, Chinmay Khandekar, __Xingyu Gao__, Tongcang Li, Dan Jiao, and Zubin Jacob. "Broadband circularly polarized thermal radiation from magnetic Weyl semimetals." Optical Materials Express 11, 11 3880-3895 (2021).
 * __Gao, X.__, Khandekar, C., Jacob, Z., & Li, T. Thermal equilibrium spin torque: Near-field radiative angular momentum transfer in magneto-optical media. Physical Review B, 103, 125424 (2021).
