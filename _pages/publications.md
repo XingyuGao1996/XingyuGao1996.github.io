@@ -16,7 +16,7 @@ author_profile: true
 
 ## Preprints
 
-* __Gao, Xingyu__*, Sumukh Vaidya*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023).
+* __Gao, Xingyu__*, Sumukh Vaidya*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023) (accepted by Nature Communications).
 
 ## Publications
 * Jin, Yuanbin, Kunhong Shen, Peng Ju, __Xingyu Gao__, Chong Zu, Alejandro J. Grine, and Tongcang Li. "Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum." ***Nature Communications*** volume 15, Article number: 5063 (2024) 
