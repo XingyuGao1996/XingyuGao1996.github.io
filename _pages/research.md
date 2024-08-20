@@ -14,9 +14,10 @@ Developing coherent control of individual quantum systems and harnessing this co
 
 My research focuses on spin qubits in novel material platforms, specifically, in hexagonal boron nitride (hBN). hBN is a van der Waals material and its layered structure offers capabilities to integrate with heterogeneous nanodevices. We discover and create optically active spin defects in hBN, and study these defects using the optically detected magnetic resonance (ODMR) technique. Our investigations include $$V_B^-$$ spin defect ensembles and single carbon-related defects in hBN. Additionally, we leverage these defects to detect, polarize and control the surrounding nuclear spins. The nuclear spins generally exhibit significantly longer coherence times compared to electronic spins.  The capability of controlling nuclear spins enables long-live nucelar spin quantum registers, which can overcome the short coherence time of hBN spin defects.
 
-![ ](../Figures/research/illustration_hBNdefects-old.jpg "hBN_illustration")
+![ ](../Figures/research/illustration_hBNdefects.jpg "hBN_illustration")
 
 __Related publications__:
+* __Gao, Xingyu__*, Sumukh Vaidya*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "An optically addressable electronuclear spin register in hexagonal boron nitride." (in preparation).
 * __Gao, X.__, Vaidya, S., Li, K., Ju, P., Jiang, B., Xu, Z., Allcca, A. E., ..., Bhave, S. A., Chen, Y. P., Ping, Y., & Li, T. Nuclear spin polarization and control in hexagonal boron nitride. Nature Materials, 21, 1024-1028 (2022).
 * Gong, R., He, G., __Gao, X.__, Ju, P., Liu, Z., Ye, B., Henriksen, E. A., Li, T., & Zu, C. Coherent Dynamics of Strongly Interacting Electronic Spin Defects in Hexagonal Boron Nitride. Nature Communications 14, 3299 (2023).
 * Mathur, N., Mukherjee, A., __Gao, X.__, Luo, J., McCullian, B. A., Li, T., Vamivakas, A. N. & Fuchs, G. D. Excitedstate spin-resonance spectroscopy of $$V_B^-$$ defect centers in hexagonal boron nitride. Nature Communications, 13, 3233 (2022).
