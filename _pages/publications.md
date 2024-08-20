@@ -15,8 +15,8 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
-* __Gao, Xingyu__*, Sumukh Vaidya*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "An optically addressable electronuclear spin register in hexagonal boron nitride." (in preparation).
-* __Gao, Xingyu__*, Sumukh Vaidya*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023) (accepted by Nature Communications).
+* __Gao, Xingyu__\*, Sumukh Vaidya\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "An optically addressable electronuclear spin register in hexagonal boron nitride." (in preparation).
+* __Gao, Xingyu__\*, Sumukh Vaidya\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023) (accepted by Nature Communications).
 
 ## Publications
 * Jin, Yuanbin, Kunhong Shen, Peng Ju, __Xingyu Gao__, Chong Zu, Alejandro J. Grine, and Tongcang Li. "Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum." ***Nature Communications*** volume 15, Article number: 5063 (2024) 
