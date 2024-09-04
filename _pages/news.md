@@ -13,6 +13,9 @@ author_profile: true
 {% for post in site.news %}
   {% include archive-single.html %}
 {% endfor %}
+ __September 4, 2024__  
+  Check our latest work "[Single nuclear spin detection and control in a van der Waals material](https://https://arxiv.org/abs/2409.01601)".
+
 
  __June 13, 2024__  
   Our latest work "[Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum](https://www.nature.com/articles/s41467-024-49175-3)" was published in ***Nature Communications***! Congratulations! 
