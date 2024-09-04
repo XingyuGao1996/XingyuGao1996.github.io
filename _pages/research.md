@@ -17,7 +17,7 @@ My research focuses on spin qubits in novel material platforms, specifically, in
 ![ ](../Figures/research/illustration_hBNdefects.jpg "hBN_illustration")
 
 __Related publications__:
-* __Gao, X.__, Vaidya, S., Li, K., Dikshit, S., Zhang, S., Ju, P., Shen, K., Jin, Y., Ping, Y., and Li, T. Single nuclear spin detection and control in a van der Waals material (2024).
+* __Gao, X.__, Vaidya, S., Li, K., Dikshit, S., Zhang, S., Ju, P., Shen, K., Jin, Y., Ping, Y., and Li, T. [Single nuclear spin detection and control in a van der Waals material](https://arxiv.org/abs/2409.01601) (2024).
 * __Gao, X.__, Vaidya, S., Li, K., Ju, P., Jiang, B., Xu, Z., Allcca, A. E., ..., Bhave, S. A., Chen, Y. P., Ping, Y., & Li, T. Nuclear spin polarization and control in hexagonal boron nitride. Nature Materials, 21, 1024-1028 (2022).
 * Gong, R., He, G., __Gao, X.__, Ju, P., Liu, Z., Ye, B., Henriksen, E. A., Li, T., & Zu, C. Coherent Dynamics of Strongly Interacting Electronic Spin Defects in Hexagonal Boron Nitride. Nature Communications 14, 3299 (2023).
 * Mathur, N., Mukherjee, A., __Gao, X.__, Luo, J., McCullian, B. A., Li, T., Vamivakas, A. N. & Fuchs, G. D. Excitedstate spin-resonance spectroscopy of $$V_B^-$$ defect centers in hexagonal boron nitride. Nature Communications, 13, 3233 (2022).
