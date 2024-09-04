@@ -15,7 +15,7 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
-* __Gao, Xingyu__\*, Sumukh Vaidya\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "An optically addressable electronuclear spin register in hexagonal boron nitride." (in preparation).
+* __Gao, Xingyu__\*, Sumukh Vaidya\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "Single nuclear spin detection and control in a van der Waals material"  [arXiv:2409.01601v1](https://arxiv.org/abs/2409.01601) (2024)..
 * __Gao, Xingyu__\*, Sumukh Vaidya\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." arXiv preprint arXiv:2310.02709 (2023) (accepted by Nature Communications).
 
 ## Publications
