@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
  __September 4, 2024__  
-  Check our latest work "[Single nuclear spin detection and control in a van der Waals material](https://https://arxiv.org/abs/2409.01601)".
+  Check our latest work "[Single nuclear spin detection and control in a van der Waals material](https://arxiv.org/abs/2409.01601)" on ArXiv.
 
 
  __June 13, 2024__  
