@@ -30,7 +30,7 @@ Solid-state spin defects have been demonstrated as promising sensors, known as q
 ![ ](../Figures/research/BNNT_AFM.jpg "sensing")
 
 __Related publications__:
-* __Gao, X.__, Vaidya, S., Dikshit, S., Ju, P., Shen, K., Jin, Y., and Li, T. Nanotube spin defects for omnidirectional magnetic field sensing. arXiv:2310.02709 (2023).
+* __Gao, X.__, Vaidya, S., Dikshit, S., Ju, P., Shen, K., Jin, Y., and Li, T. Nanotube spin defects for omnidirectional magnetic field sensing. Nature Communications 15, 7697 (2024)
 * __Gao, X.__, Vaidya, S., Ju, P., Dikshit, S., Shen, K., Chen, Y. P., and Li, T. Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride. ACS Photonics 10, 8, 2894–2900 (2023).
 * Xie, T., Shi, F., Chen, S., Guo, M., Chen, Y., Zhang, Y., Yang, Y., __Gao, X.__, ..., Shi, F., Du, J. 2018. Mesoscopic magnetic resonance spectroscopy with a remote spin sensor. Physical Review Applied, 9(6), p.064003 (2018).
 
@@ -41,8 +41,8 @@ Levitated nanoparticles and microparticles in high vacuum offer a remarkable deg
 ![ ](../Figures/research/Levitation.jpg "energyTransfer")
 
 __Related publications__:
-* Jin, Y., Shen, K., Ju, P., __Gao, X.__, Zu, C., Grine, A. J., and Li, T. Quantum control and fast rotation of levitated diamonds in high vacuum. ***Nature Communications*** volume 15, Article number: 5063 (2024) 
-* Ju, P., Jin, Y., Shen, K., Duan, Y., Xu, Z., __Gao, X.__, and Li, T. Near-field GHz rotation and sensing with an optically levitated nanodumbbell. ***Nano Lett*** 2023, 23, 22, 10157–10163
+* Jin, Y., Shen, K., Ju, P., __Gao, X.__, Zu, C., Grine, A. J., and Li, T. Quantum control and fast rotation of levitated diamonds in high vacuum. Nature Communications 15, 5063 (2024) 
+* Ju, P., Jin, Y., Shen, K., Duan, Y., Xu, Z., __Gao, X.__, and Li, T. Near-field GHz rotation and sensing with an optically levitated nanodumbbell. Nano Lett 2023, 23, 22, 10157–10163
 * Bang, J., Seberson, T., Ju, P., Ahn, J., Xu, Z., __Gao, X.__, Robicheaux, F., & Li, T. Five-dimensional cooling and nonlinear dynamics of an optically levitated nanodumbbell. Physical Review Research, 2, 043054 (2020).
 * Ahn, J., Xu, Z., Bang, J., Ju, P., __Gao, X.__, & Li, T. (2020). Ultrasensitive torque detection with an optically levitated nanorotor. Nature Nanotechnology, 15, 89-93.
 
