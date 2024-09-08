@@ -16,7 +16,7 @@ author_profile: true
  __September 4, 2024__  
 Our latest work "[Nanotube spin defects for omnidirectional magnetic field sensing](https://doi.org/10.1038/s41467-024-51941-2)" was published in ***Nature Communications***! Congratulations! 
 
- __September 4, 2024__  
+ __September 3, 2024__  
   Check our latest work "[Single nuclear spin detection and control in a van der Waals material](https://arxiv.org/abs/2409.01601)" on ArXiv.
 
 
