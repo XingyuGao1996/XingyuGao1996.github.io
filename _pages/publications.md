@@ -16,7 +16,7 @@ author_profile: true
 
 ## Preprints
 * __Gao, Xingyu__\*, Sumukh Vaidya\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "Single nuclear spin detection and control in a van der Waals material"  [arXiv:2409.01601v1](https://arxiv.org/abs/2409.01601) (2024)..
-
+* Li, Junxu, __Xingyu Gao__, Manas Sajjan, Ji-Hu Su, Zhao-Kai Li, and Sabre Kais. "M {\o} ller-Plesset Perturbation Theory Calculations on Quantum Devices." arXiv preprint arXiv:2308.01559 (2023).
 
 ## Publications
 * __Gao, Xingyu__\*, Sumukh Vaidya\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." Nature Communications 15, 7697 (2024)
@@ -24,7 +24,6 @@ author_profile: true
 * Vaidya, Sumukh, __Xingyu Gao__, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." Advances in Physics: X 8, no. 1 (2023): 2206049.
 * Ju, Peng, Yuanbin Jin, Kunhong Shen, Yao Duan, Zhujing Xu, __Xingyu Gao__, Xingjie Ni, and Tongcang Li. "Near-field GHz rotation and sensing with an optically levitated nanodumbbell." Nano letters 23, no. 22 (2023): 10157-10163.
 * __Gao, Xingyu__, Sumukh Vaidya, Peng Ju, Saakshi Dikshit, Kunhong Shen, Yong P. Chen, and Tongcang Li. "Quantum sensing of paramagnetic spins in liquids with spin qubits in hexagonal boron nitride." ACS Photonics 10, no. 8 (2023): 2894-2900.
-* Li, Junxu, __Xingyu Gao__, Manas Sajjan, Ji-Hu Su, Zhao-Kai Li, and Sabre Kais. "M {\o} ller-Plesset Perturbation Theory Calculations on Quantum Devices." arXiv preprint arXiv:2308.01559 (2023).
 * Gong, Ruotian, Guanghui He, __Xingyu Gao__, Peng Ju, Zhongyuan Liu, Bingtian Ye, Erik A. Henriksen, Tongcang Li, and Chong Zu. "Coherent dynamics of strongly interacting electronic spin defects in hexagonal boron nitride." Nature Communications 14, no. 1 (2023): 3299.
 * Xu, Xiaohui, Abhishek B. Solanki, Demid Sychev, __Xingyu Gao__, Samuel Peana, Aleksandr S. Baburin, Karthik Pagadala, Zachariah O. Martin, Sarah N. Chowdhury, Yong P. Chen, Takashi Taniguchi, Kenji Watanabe, Ilya A. Rodionov, Alexander V. Kildishev, Tongcang Li, Pramey Upadhyaya, Alexandra Boltasseva, and Vladimir M. Shalaev. "Greatly enhanced emission from spin defects in hexagonal boron nitride enabled by a low-loss plasmonic nanocavity." Nano Letters 23, no. 1 (2022): 25-33.
 * Xu, Zhujing, Peng Ju, __Xingyu Gao__, Kunhong Shen, Zubin Jacob, and Tongcang Li. "Observation and control of Casimir effects in a sphere-plate-sphere system." Nature Communications 13, no. 1 (2022): 6148.
