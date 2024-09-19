@@ -15,7 +15,7 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
-* __Gao, Xingyu__\*, Sumukh Vaidya\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "Single nuclear spin detection and control in a van der Waals material"  [arXiv:2409.01601v1](https://arxiv.org/abs/2409.01601) (2024)..
+* __Gao, Xingyu__\*, Sumukh Vaidya\*, Kejun Li, Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "Single nuclear spin detection and control in a van der Waals material"  [arXiv:2409.01601v1](https://arxiv.org/abs/2409.01601) (2024) (under review in Nature).
 * Li, Junxu, __Xingyu Gao__, Manas Sajjan, Ji-Hu Su, Zhao-Kai Li, and Sabre Kais. "M {\o} ller-Plesset Perturbation Theory Calculations on Quantum Devices." arXiv preprint arXiv:2308.01559 (2023).
 
 ## Publications
