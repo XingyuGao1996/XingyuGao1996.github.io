@@ -22,3 +22,7 @@ Our latest work "[Nanotube spin defects for omnidirectional magnetic field sensi
 
  __June 13, 2024__  
   Our latest work "[Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum](https://www.nature.com/articles/s41467-024-49175-3)" was published in ***Nature Communications***! Congratulations! 
+
+
+__November 11, 2024__  
+  I am thrilled to announce the successful defense of my PhD!
