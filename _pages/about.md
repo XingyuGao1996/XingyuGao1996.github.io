@@ -42,12 +42,16 @@ Awards and Honors
 
 * Ross Fellowship, Purdue University, 2018
 
-* Best Bachelor’s Thesis Award (1%), University of Science and Technology of China, 2018
+* Outstanding undergraduate dissertation (top 3%), University of Science and Technology of China, 2018
 
 * Seagate Fellowship, University of Science and Technology of China, 2016
 
-Conference talks
+Conference Presentations
 ======
-* Xingyu Gao, Boyang Jiang, Andres Llacsahuanga Allcca, Kunhong Shen, Mohammad Sadi, Abhishek Solanki, Peng Ju,  Zhujing Xu, Pramey Upadhyaya, Yong Chen, Sunil Bhave, Tongcang Li, "High contrast shallow spin defects in hexagonal boron nitride enhanced by surface plasmon for quantum sensing", APS March Meeting, 2022
+* APS March Meeting, March 14 - March 18, 2022
 
-* Xingyu Gao, Sumukh Vaidya, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, Tongcang Li, "Nanotube spin defects for omnidirectional magnetic field sensing", APS March Meeting, 2024
+* APS March Meeting, March 4 - March 8, 2024
+
+* Gordon Research Seminar and Conference, poster, August 4 - August 9, 2024
+
+* Chicago Quantum Summit,  October 21 - October 22, 2024
