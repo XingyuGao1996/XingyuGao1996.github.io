@@ -25,6 +25,8 @@ Our latest work "[Nanotube spin defects for omnidirectional magnetic field sensi
  __September 3, 2024__  
   Check our latest work "[Single nuclear spin detection and control in a van der Waals material](https://arxiv.org/abs/2409.01601)" on ArXiv.
 
+__August 4, 2024__  
+ I am presenting a poster at GRC conference about our recent progress on single nuclear spin detection and coherent control in hBN using carbon related defects.
 
  __June 13, 2024__  
   Our latest work "[Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum](https://www.nature.com/articles/s41467-024-49175-3)" was published in ***Nature Communications***! Congratulations! 
