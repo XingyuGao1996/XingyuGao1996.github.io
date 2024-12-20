@@ -13,6 +13,10 @@ author_profile: true
 {% for post in site.news %}
   {% include archive-single.html %}
 {% endfor %}
+__December 10, 2024__  
+  I am honored to present an invited seminar at UChicago as part of the Special PME Quantum Seminar series. The talk is titled “Spin Defects in van der Waals Materials for Quantum Sensing.” A heartfelt thank you to everyone at UChicago for hosting me!
+
+
 __November 11, 2024__  
   I am thrilled to announce the successful defense of my PhD!
 
