@@ -13,11 +13,14 @@ author_profile: true
 {% for post in site.news %}
   {% include archive-single.html %}
 {% endfor %}
+__January 24, 2024__  
+I am honored to have been awarded the Chicago Quantum Postdoctoral Research Fellowship and will join UChicago as a postdoctoral fellow this summer.
+
 __December 10, 2024__  
-  I am honored to present an invited seminar at UChicago as part of the Special PME Quantum Seminar series. The talk is titled “Spin Defects in van der Waals Materials for Quantum Sensing.” A heartfelt thank you to everyone at UChicago for hosting me!
+I am honored to present an invited seminar at UChicago as part of the Special PME Quantum Seminar series. The talk is titled “Spin Defects in van der Waals Materials for Quantum Sensing.” A heartfelt thank you to everyone at UChicago for hosting me!
 
 __November 11, 2024__  
-  I am thrilled to announce the successful defense of my PhD!
+I am thrilled to announce the successful defense of my PhD!
 
  __September 4, 2024__  
 Our latest work "[Nanotube spin defects for omnidirectional magnetic field sensing](https://doi.org/10.1038/s41467-024-51941-2)" was published in ***Nature Communications***! Congratulations! 
