@@ -13,9 +13,7 @@ author_profile: true
 {% for post in site.news %}
   {% include archive-single.html %}
 {% endfor %}
-{%__January 24, 2024__  
-I am honored to have been awarded the Chicago Quantum Postdoctoral Research Fellowship and will join UChicago as a postdoctoral fellow this summer.
-%}
+
 
 __December 10, 2024__  
 I am honored to present an invited seminar at UChicago as part of the Special PME Quantum Seminar series. The talk is titled “Spin Defects in van der Waals Materials for Quantum Sensing.” A heartfelt thank you to everyone at UChicago for hosting me!
