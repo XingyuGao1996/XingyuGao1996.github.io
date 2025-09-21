@@ -15,12 +15,14 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
-* Sumukh Vaidya, __Xingyu Gao__, Saakshi Dikshit, Zhenyao Fang, Andres E Llacsahuanga Alcca, Yong P Chen, Qimin Yan, Tongcang Li. "Coherent Spins in van der Waals Semiconductor GeS2 at Ambient Conditions" 	 arXiv preprint arXiv:2507.05133 (2025)
-* Mohammad Abdullah Sadi, Luca Basso, David A Fehr, __Xingyu Gao__, Sumukh Vaidya, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté, Andrew M Mounce, Yong P Chen "Spin-state selective excitation in spin defects of hexagonal boron nitride." arXiv preprint arXiv:2506.04448 (2025)
+* Souvik Biswas, Giovanni Scuri, Noah Huffman, Eric I. Rosenthal, Ruotian Gong, Thomas Poirier, __Xingyu Gao__, Sumukh Vaidya, Abigail J. Stein, Tsachy Weissman, James H. Edgar, Tongcang Li, Chong Zu, Jelena Vučković, Joonhee Choi. "Quantum sensing with a spin ensemble in a two-dimensional material." arXiv:2509.08984 (2025)
+* Abhishek Bharatbhai Solanki, Yueh-Chun Wu, Hamza Ather, Priyo Adhikary, Aravindh Shankar, Ian Gallagher, __Xingyu Gao__, Owen M. Matthiessen, Demid Sychev, Alexei Lagoutchev, Tongcang Li, Yong P. Chen, Vladimir M. Shalaev, Benjamin Lawrie, Pramey Upadhyaya. "Broadband Relaxation Dynamics of Boron-Vacancy Centers in Hexagonal Boron Nitride." arXiv:2507.16786 (2025)
 * Li, Junxu, __Xingyu Gao__, Manas Sajjan, Ji-Hu Su, Zhao-Kai Li, and Sabre Kais. "M {\o} ller-Plesset Perturbation Theory Calculations on Quantum Devices." arXiv preprint arXiv:2308.01559 (2023).
 
 ## Publications
 * __Xingyu Gao__\*, Sumukh Vaidya\*, Kejun Li, Zhun Ge Saakshi Dikshit, Shimin Zhang, Peng Ju, Kunhong Shen, Yuanbin Jin, Yuan Ping, and Tongcang Li. "Single nuclear spin detection and control in a van der Waals material"  Nature (2025).
+* Sumukh Vaidya, __Xingyu Gao__, Saakshi Dikshit, Zhenyao Fang, Andres E Llacsahuanga Alcca, Yong P Chen, Qimin Yan, Tongcang Li. "Coherent Spins in van der Waals Semiconductor GeS2 at Ambient Conditions" 	 Nano Letters (2025). preprint: arXiv:2507.05133
+* Mohammad Abdullah Sadi, Luca Basso, David A Fehr, __Xingyu Gao__, Sumukh Vaidya, Emmeline G Riendeau, Gajadhar Joshi, Tongcang Li, Michael E Flatté, Andrew M Mounce, Yong P Chen "Spin-state selective excitation in spin defects of hexagonal boron nitride." Nano Letters 25, 12067 (2025). 
 * __Xingyu Gao__\*, Sumukh Vaidya\*, Saakshi Dikshit, Peng Ju, Kunhong Shen, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." Nature Communications 15, 7697 (2024)
 * Jin, Yuanbin, Kunhong Shen, Peng Ju, __Xingyu Gao__, Chong Zu, Alejandro J. Grine, and Tongcang Li. "Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum." Nature Communications volume 15, Article number: 5063 (2024) 
 * Vaidya, Sumukh, __Xingyu Gao__, Saakshi Dikshit, Igor Aharonovich, and Tongcang Li. "Quantum sensing and imaging with spin defects in hexagonal boron nitride." Advances in Physics: X 8, no. 1 (2023): 2206049.

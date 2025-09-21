@@ -18,9 +18,9 @@ redirect_from:
 </script>
 
 
-I am a Postdoc Researcher under the supervision of Prof. [Tongcang Li](https://sites.google.com/site/litongcang/) at Purdue University. I am interested in solid-state quantum devices for the applications in quantum sensing, computation and communication. My current research focuses on spin qubits in solid-state materials, specifically, in hexagonal boron nitride. 
+I am a Postdoc Fellow at the University of Chicago under the supervision of Prof. Alex High, Prof. Peter Maurer and Prof. Andrew Higginbotham. I am interested in solid-state quantum devices for the applications in quantum sensing, computation and communication. 
 
-You can reach me by email at gao477[at]purdue[dot]edu
+You can reach me by email at gao477[at]uchicago[dot]edu
 
 
 

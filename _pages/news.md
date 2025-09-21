@@ -14,6 +14,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+__July 25, 2025__  
+Our latest work "[https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567)" was published in ***Nano Letters***! Congratulations! 
+
+__Sep 10, 2025__  
+Check our latest work "[Quantum sensing with a spin ensemble in a two-dimensional material](https://arxiv.org/abs/2509.08984)" on ArXiv.
+
+__July 25, 2025__  
+Our latest work "[Spin-State-Selective Excitation in Spin Defects of Hexagonal Boron Nitride](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.5c03056)" was published in ***Nano Letters***! Congratulations! 
+
+__July 22, 2025__  
+Check our latest work "[Broadband Relaxation Dynamics of Boron-Vacancy Centers in Hexagonal Boron Nitride](https://arxiv.org/abs/2507.16786)" on ArXiv.
 
 
 __July 9, 2025__  
