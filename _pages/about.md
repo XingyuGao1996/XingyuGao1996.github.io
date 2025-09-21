@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 
-I am a Postdoc Fellow at the University of Chicago under the supervision of Prof. Alex High, Prof. Peter Maurer and Prof. Andrew Higginbotham. I am interested in solid-state quantum devices for the applications in quantum sensing, computation and communication. 
+I am a Postdoc Fellow at the University of Chicago under the supervision of Prof. Alex High, Prof. Peter Maurer and Prof. Andrew Higginbotham. I am interested in solid-state quantum devices for the applications in quantum sensing, simulation and communication. 
 
 You can reach me by email at gao477[at]uchicago[dot]edu
 
