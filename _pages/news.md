@@ -14,8 +14,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+__Jan 28, 2026__  
+Our latest work "[A Surface-Scaffolded Molecular Qubit](http://arxiv.org/abs/2601.19976)"  on ArXiv. 
+
 __July 25, 2025__  
-Our latest work "[https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567)" was published in ***Nano Letters***! Congratulations! 
+Our latest work "[Coherent Spins in van der Waals Semiconductor GeS2 at Ambient Conditions](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567)" was published in ***Nano Letters***! Congratulations! 
 
 __Sep 10, 2025__  
 Check our latest work "[Quantum sensing with a spin ensemble in a two-dimensional material](https://arxiv.org/abs/2509.08984)" on ArXiv.
