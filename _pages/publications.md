@@ -15,6 +15,7 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints
+* Tian-Xing Zheng, M. Utama, Xingyu Gao, Moumita Kar, Xiaofei Yu, Sungsu Kang, Hanyan Cai, Tengyang Ruan, David Ovetsky, Uri Zvi, Guanming Lao, Yu-Xin Wang, Omri Raz, Sanskriti Chitransh, Grant T. Smith, Leah R. Weiss, Magdalena H. Czyz, Shengsong Yang, Alex J. Fairhall, Kenji Watanabe, Takashi Taniguchi, David D. Awschalom, A. Paul Alivisatos, Randall H. Goldsmith, George C. Schatz, Mark C. Hersam, Peter C. Maurer. “A Surface-Scaffolded Molecular Qubit.” arXiv:2601.19976 (2026).
 * Souvik Biswas, Giovanni Scuri, Noah Huffman, Eric I. Rosenthal, Ruotian Gong, Thomas Poirier, __Xingyu Gao__, Sumukh Vaidya, Abigail J. Stein, Tsachy Weissman, James H. Edgar, Tongcang Li, Chong Zu, Jelena Vučković, Joonhee Choi. "Quantum sensing with a spin ensemble in a two-dimensional material." arXiv:2509.08984 (2025)
 * Abhishek Bharatbhai Solanki, Yueh-Chun Wu, Hamza Ather, Priyo Adhikary, Aravindh Shankar, Ian Gallagher, __Xingyu Gao__, Owen M. Matthiessen, Demid Sychev, Alexei Lagoutchev, Tongcang Li, Yong P. Chen, Vladimir M. Shalaev, Benjamin Lawrie, Pramey Upadhyaya. "Broadband Relaxation Dynamics of Boron-Vacancy Centers in Hexagonal Boron Nitride." arXiv:2507.16786 (2025)
 * Li, Junxu, __Xingyu Gao__, Manas Sajjan, Ji-Hu Su, Zhao-Kai Li, and Sabre Kais. "M {\o} ller-Plesset Perturbation Theory Calculations on Quantum Devices." arXiv preprint arXiv:2308.01559 (2023).
