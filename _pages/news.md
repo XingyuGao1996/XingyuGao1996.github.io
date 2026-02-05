@@ -15,7 +15,7 @@ author_profile: true
 {% endfor %}
 
 __Jan 28, 2026__  
-Our latest work "[A Surface-Scaffolded Molecular Qubit](http://arxiv.org/abs/2601.19976)"  on ArXiv. 
+Check our latest work "[A Surface-Scaffolded Molecular Qubit](http://arxiv.org/abs/2601.19976)"  on ArXiv. 
 
 __July 25, 2025__  
 Our latest work "[Coherent Spins in van der Waals Semiconductor GeS2 at Ambient Conditions](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c03567)" was published in ***Nano Letters***! Congratulations! 
