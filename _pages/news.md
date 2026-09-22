@@ -14,6 +14,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+__September 14, 2026__
+Check out our latest work, "Pump-Free Microwave-Optical Bell Pair Generation for Teleportation-Based Quantum Transduction," now available on arXiv. We propose a pump-free approach for generating microwave-optical Bell pairs for teleportation-based quantum transduction.
+
+__August 4, 2026__
+I was delighted to join the Chicago Quantum Exchange Q-Ready program for an invited panel discussion. I enjoyed sharing our research on quantum sensing, quantum control, and solid-state quantum systems with undergraduate and graduate students in the Q-Ready community. Thanks to the Chicago Quantum Exchange and the Q-Ready team for the invitation!
+
+__May 11, 2026__
+I was honored to give an invited talk, "A Surface Molecular Qubit Scaffolded by Hexagonal Boron Nitride," at the Princeton-GIA Diamond Symposium. Many thanks to the Princeton Quantum Initiative and the symposium organizers for the invitation and for an excellent day of discussions on quantum materials and technologies!
+
 __Jan 28, 2026__  
 Check our latest work "[A Surface-Scaffolded Molecular Qubit](http://arxiv.org/abs/2601.19976)"  on ArXiv. 
 
