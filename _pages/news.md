@@ -14,10 +14,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-__September 14, 2026__  
+__Sep 14, 2026__  
 Check out our latest work, ["Pump-Free Microwave-Optical Bell Pair Generation for Teleportation-Based Quantum Transduction,"](https://arxiv.org/abs/2609.16364) now available on arXiv. We propose a pump-free approach for generating microwave-optical Bell pairs for teleportation-based quantum transduction.
 
-__August 4, 2026__  
+__Aug 4, 2026__  
 I was delighted to join the Chicago Quantum Exchange Q-Ready program for an [invited panel](https://chicagoquantum.org/event/q-ready-panel-behind-research-xingyu-gao-phd) discussion. I enjoyed sharing our research on quantum sensing, quantum control, and solid-state quantum systems with undergraduate and graduate students in the Q-Ready community. Thanks to the Chicago Quantum Exchange and the Q-Ready team for the invitation!
 
 __May 11, 2026__  
